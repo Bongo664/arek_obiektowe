@@ -1,0 +1,26 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Programista\Desktop\29.10.24\ConsoleApplication1\ConsoleApplication1.cpp(8,10): error C3646: "adres": nieznany specyfikator przesłonięcia
+C:\Users\Programista\Desktop\29.10.24\ConsoleApplication1\ConsoleApplication1.cpp(8,2): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\Programista\Desktop\29.10.24\ConsoleApplication1\ConsoleApplication1.cpp(9,33): error C2061: błąd składniowy: identyfikator „Address”
+C:\Users\Programista\Desktop\29.10.24\ConsoleApplication1\ConsoleApplication1.cpp(10,52): error C2039: „adres”: nie jest składową elementu „Person”
+      C:\Users\Programista\Desktop\29.10.24\ConsoleApplication1\ConsoleApplication1.cpp(4,7):
+      zobacz deklarację „Person”
+  
+C:\Users\Programista\Desktop\29.10.24\ConsoleApplication1\ConsoleApplication1.cpp(10,60): error C2065: "addres": niezadeklarowany identyfikator
+C:\Users\Programista\Desktop\29.10.24\ConsoleApplication1\ConsoleApplication1.cpp(24,3): error C2065: "adres": niezadeklarowany identyfikator
+C:\Users\Programista\Desktop\29.10.24\ConsoleApplication1\ConsoleApplication1.cpp(29,15): error C2665: „Address::Address”: żadna przeciążona funkcja nie może przekonwertować wszystkich typów argumentów
+      C:\Users\Programista\Desktop\29.10.24\ConsoleApplication1\ConsoleApplication1.cpp(19,2):
+      może to być „Address::Address(std::string &,std::string &,int)”
+          C:\Users\Programista\Desktop\29.10.24\ConsoleApplication1\ConsoleApplication1.cpp(29,15):
+          „Address::Address(std::string &,std::string &,int)”: nie można dokonać konwersji argumentu 1 z „const char [9]” do „std::string &”
+      C:\Users\Programista\Desktop\29.10.24\ConsoleApplication1\ConsoleApplication1.cpp(29,15):
+      podczas próby dopasowania listy argumentów "(const char [9], const char [15], int)"
+  
+C:\Users\Programista\Desktop\29.10.24\ConsoleApplication1\ConsoleApplication1.cpp(30,15): error C2661: "Person::Person": brak przeciążonej funkcji przyjmującej 3 argumenty
+      C:\Users\Programista\Desktop\29.10.24\ConsoleApplication1\ConsoleApplication1.cpp(30,15):
+      podczas próby dopasowania listy argumentów "(const char [10], const char [9], Address)"
+  
+C:\Users\Programista\Desktop\29.10.24\ConsoleApplication1\ConsoleApplication1.cpp(31,9): error C2039: „display”: nie jest składową elementu „Person”
+      C:\Users\Programista\Desktop\29.10.24\ConsoleApplication1\ConsoleApplication1.cpp(4,7):
+      zobacz deklarację „Person”
+  

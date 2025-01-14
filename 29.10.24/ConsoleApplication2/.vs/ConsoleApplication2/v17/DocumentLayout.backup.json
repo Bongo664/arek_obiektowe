@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Programista\\Desktop\\29.10.24\\ConsoleApplication2\\",
+  "WorkspaceRootPath": "C:\\Users\\Programista\\Documents\\3ct\\arek_obiektowe\\29.10.24\\ConsoleApplication2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29FD7268-F749-4DF5-ACDC-A83FC130C81A}|ConsoleApplication2.vcxproj|C:\\Users\\Programista\\Desktop\\29.10.24\\ConsoleApplication2\\ConsoleApplication2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{29FD7268-F749-4DF5-ACDC-A83FC130C81A}|ConsoleApplication2.vcxproj|C:\\Users\\Programista\\Documents\\3ct\\arek_obiektowe\\29.10.24\\ConsoleApplication2\\ConsoleApplication2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{29FD7268-F749-4DF5-ACDC-A83FC130C81A}|ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ConsoleApplication2.cpp",
-              "DocumentMoniker": "C:\\Users\\Programista\\Desktop\\29.10.24\\ConsoleApplication2\\ConsoleApplication2.cpp",
+              "DocumentMoniker": "C:\\Users\\Programista\\Documents\\3ct\\arek_obiektowe\\29.10.24\\ConsoleApplication2\\ConsoleApplication2.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication2.cpp",
-              "ToolTip": "C:\\Users\\Programista\\Desktop\\29.10.24\\ConsoleApplication2\\ConsoleApplication2.cpp*",
-              "RelativeToolTip": "ConsoleApplication2.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Programista\\Documents\\3ct\\arek_obiektowe\\29.10.24\\ConsoleApplication2\\ConsoleApplication2.cpp",
+              "RelativeToolTip": "ConsoleApplication2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-29T07:14:27.477Z",
               "EditorCaption": ""

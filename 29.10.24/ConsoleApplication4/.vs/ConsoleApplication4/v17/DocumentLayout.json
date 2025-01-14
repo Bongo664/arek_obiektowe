@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Programista\\Desktop\\29.10.24\\ConsoleApplication4\\",
+  "WorkspaceRootPath": "C:\\Users\\Programista\\Documents\\3ct\\arek_obiektowe\\29.10.24\\ConsoleApplication4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1B03596-5D9B-4812-9DAB-C40017E87F83}|ConsoleApplication4.vcxproj|C:\\Users\\Programista\\Desktop\\29.10.24\\ConsoleApplication4\\ConsoleApplication4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E1B03596-5D9B-4812-9DAB-C40017E87F83}|ConsoleApplication4.vcxproj|C:\\Users\\Programista\\Documents\\3ct\\arek_obiektowe\\29.10.24\\ConsoleApplication4\\ConsoleApplication4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E1B03596-5D9B-4812-9DAB-C40017E87F83}|ConsoleApplication4.vcxproj|solutionrelative:ConsoleApplication4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ConsoleApplication4.cpp",
-              "DocumentMoniker": "C:\\Users\\Programista\\Desktop\\29.10.24\\ConsoleApplication4\\ConsoleApplication4.cpp",
+              "DocumentMoniker": "C:\\Users\\Programista\\Documents\\3ct\\arek_obiektowe\\29.10.24\\ConsoleApplication4\\ConsoleApplication4.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication4.cpp",
-              "ToolTip": "C:\\Users\\Programista\\Desktop\\29.10.24\\ConsoleApplication4\\ConsoleApplication4.cpp",
+              "ToolTip": "C:\\Users\\Programista\\Documents\\3ct\\arek_obiektowe\\29.10.24\\ConsoleApplication4\\ConsoleApplication4.cpp",
               "RelativeToolTip": "ConsoleApplication4.cpp",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-29T07:29:05.146Z",
               "EditorCaption": ""

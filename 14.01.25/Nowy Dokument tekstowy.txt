@@ -1,0 +1,1 @@
+utwórz aplikację desktop w c# która wyznacz pole koła pole trójkąta pole rombu dane boków promieni etc. pobierz z bazy danych która zostanie utworzona w xampp
